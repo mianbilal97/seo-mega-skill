@@ -1,0 +1,47 @@
+# Site and page playbooks
+
+Select a business model and a page job. For a hybrid site apply the relevant row to each page. New site planning starts with meaningful indexable pages and a measurable path to the main action. Existing sites start with a performance and indexation baseline.
+
+| Site or template | Put the user's main action first | Evidence and useful extensions | Main KPI and common failure |
+| --- | --- | --- | --- |
+| Blog, publisher or educational site | Answer or define the topic. Use a tutorial or reference format that fits the query. | Primary sources, firsthand examples, author and reviewer when relevant, dated updates, linked topic hubs. | Qualified organic visits or subscription. Thin tag archives, duplicative posts and misleading freshness. |
+| Free tool, calculator, converter or generator | Provide the functioning tool with clear inputs and a sample or outcome. Keep it usable on mobile. | Formulas or methodology, assumptions, units, boundary cases, examples, input privacy and related tools. Provide an indexable landing page plus useful static content. | Successful tool completion and repeat use or signup. Gated above-the-fold utility, crawlable private results, parameter bloat, untested outputs. |
+| SaaS or app | State product, outcome and fit. Make live demo, trial, install or signup easy. | Actual UI, capabilities and limits, supported integrations, pricing terms, ROI methodology and defensible customer proof. Link features to use cases and documentation. | Qualified trial, activation or demo. Feature claims that outrun the current product and interchangeable landing pages. |
+| SaaS use case, comparison or pricing | Put the decision and trade-offs first. Give plan, use-case or segment context. | Timestamped feature and price table, actual scenarios, selection methodology, primary vendor links and where alternatives win. | Qualified conversions. Fabricated alternatives data and repeated comparison intents on competing URLs. |
+| Ecommerce category or collection | Show a useful assortment and navigation. Add buying guidance where it reduces friction. | Distinct products, filter dimensions, comparison criteria and accurate price or stock summaries. Build indexable subsets only where demand, assortment and distinct utility are demonstrated. | Revenue or click from collection to product. Duplicate filtered URLs, empty result pages and SEO text obscuring products. |
+| Ecommerce product or variant | Show product identity, variants, price, availability and actionable purchase details. | Specifications, fit, images, compatibility, shipping, returns, tested claims and authentic reviews where available. Match visible state, feed and markup. | Product revenue and checkout starts. Wrong variant canonicals, stale availability or unsupported reviews. |
+| Local operating business | Show real service, city or area, response path and supporting details. | Real hours, services, city coverage, current project examples, credential proof, transparent price drivers and legitimate contact details. Optimise an eligible Business Profile only with authority. | Calls, bookings and qualified enquiries. Fake addresses, virtual offices, misrepresented coverage and empty city clones. |
+| Local lead referral or rank and rent | Explain who operates the site and who receives inquiries at the point it matters. Make matching or contact simple. | Verified areas and providers, referral process, local cost factors with sources, lead route and user-facing disclosure. Pursue organic visibility with useful area and service content. | Qualified and accepted leads. Misleading provider identity, fabricated local presence and duplicate city doorways. Lead generation agents and companies are ineligible for their own Google Business Profile. |
+| Marketplace, directory or user-generated site | Make relevant inventory searchable and provide credible details for each listing. | Selection or listing methodology, verification, filters, profile ownership, moderation and recently verified availability. | Qualified enquiries or completed transactions. Empty results, duplicated syndicated listings and spam profiles. |
+| Affiliate, review or comparison publication | Answer which option fits whom and show trade-offs. | Disclose commercial relationships near recommendations as applicable. Show original research or testing method, evaluation criteria and limitations. | Qualified outbound clicks or assisted revenue. Rewritten merchant copy, fake tests and unsupported superlatives. |
+| Documentation, support, developer site | Solve the task with working examples. Lead with version, environment or prerequisites where relevant. | Reference definitions, tested examples, error handling, compatibility, release dates and migration steps. Distinguish stable and historical versions. | Completion, fewer support escalations and relevant discovery. Mixed versions, duplicates and outdated instructions. |
+| Community, media, portfolio or nonprofit | Put the actual discussion, playable media, work sample or service and action first. | Relevant context, transcript or captions where available, verifiable authorship, impact metrics or authentic outcomes, subject to permission. | Engagement, enquiries, applications or donations as appropriate. Unsupported impact claims and unnecessary auto-generated index pages. |
+| Destination, venue or travel publisher | Give the practical decision quickly. Surface current status, entry requirements and the useful route or booking path. | Verified operator details, dates, price conditions, local transport, accessibility, real images and the relationships between destinations. Use current official sources for safety or regulatory information. | Qualified visit planning or booking. Confusing operator fees with public entry, stale policies, overlapping attraction and fee pages, and unserved destinations. |
+
+## Unlisted and mixed page types
+
+1. Identify the visitor's decision and page object. Examples include an event, place, property, job, person, integration, recipe, lesson or data record.
+2. Pick the primary action and what prevents users from completing it. Place then answer those friction points with real information and suitable UI.
+3. Specify the authoritative record for every volatile fact. For an event use organizer status and dates. For jobs use the actual vacancy. For property use a current listing. For user uploads verify moderation, visibility and rights as applicable.
+4. Check deduplication, expiry and empty states. If using supported structured data, verify current eligibility and required properties for the page object. Tie the conversion path and completion metric to that object's real lifecycle.
+
+## Scale across locations and templates
+
+- Maintain a source table for variable fields. Require each publishing candidate to have a distinct task, useful body or functional inventory, verified attributes, appropriate links and a maintained lifecycle. Include sparse, empty and retired cases when sampling a template.
+- For local pages validate each location's serviceability and differentiating details. If several areas share the same useful answer and there is limited verified local detail, use a service-area hub and a coverage list. Publish a dedicated location URL when users have a materially distinct need and the site can serve it.
+- For lead referral distinguish the lead generator's own pages from official provider pages. A partner's eligible Business Profile remains that partner's listing and owner-authorized representation is required. Keep location, provider and contact claims consistent with reality. Review lead form routing and disclosures for the actual jurisdiction and data flow.
+- For app, ecommerce and directory templates pay specific attention to stable URL design, rendered HTML, inventory and filters, canonical alignment and feed truth. Keep the functional control available on mobile.
+- For B2B product catalogues map the exact product and compatibility to a system, use case or service page. A quote request and a product specifications page can serve different tasks. Keep glossary terms and specifications consistent via verified supplier or manufacturer records.
+
+## Content format decisions
+
+| Searcher needs | Default unit | Evidence of fit |
+| --- | --- | --- |
+| Definition or single factual answer | Definition, short explainer, glossary entry or an existing section | Definitions, examples, trustworthy source and qualifying context. |
+| Complete a procedure | How-to or docs page with prerequisites and ordered steps | Reproducible method, correct screenshots or examples, edge cases and outcome. |
+| Choose between options | Comparison, category, shortlisting guide or matrix | Real alternatives, fit and limits, normalized pricing or specs and sources. |
+| Perform a calculation or conversion | Interactive tool with examples | Working inputs and outputs, calculation rules, precision and limitations. |
+| Evaluate availability or transact | Service, product, pricing, booking or location page | Accurate service details or inventory and a tested booking or purchase path. |
+| Verify credibility | About, author, methodology, case study or data resource | Verifiable identity or scope, method, evidence and permission where needed. |
+
+Deliver the selected playbook, the reason it applies, the primary CTA and KPI, the differentiating evidence needed and the highest-risk technical issue to check. Choose sections by user need and the real page material.

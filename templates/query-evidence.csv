@@ -1,0 +1,1 @@
+query_id,raw_query,normalized_query,query_template,entity,attribute,user_task,intent,locale,language,device,source_surface,source_reference,observed_date,period_start,period_end,demand_metric,demand_value,demand_unit,competition_url,result_type,observed_organic_position,evidence_status,cluster_id,notes
